@@ -1,0 +1,6 @@
+Instructions:
+
+1. Create Dockerfile [instructions for that are inside Dockerfile]
+2. Create image: docker build . -t dockerusername/image-name
+3. login to docker: sudo docker login
+4. docker push dockerusername/image-name
