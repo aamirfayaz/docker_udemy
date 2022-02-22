@@ -1,0 +1,1 @@
+docker run docker/whalesay cowsay Hello-World! [command to download and run a simple docker image]
